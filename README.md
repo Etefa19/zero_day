@@ -1,1 +1,1 @@
-this file is mandatory in projecT:WQ
+this file is mandatory in project
